@@ -16,9 +16,9 @@ The page gives a user the ability to search any Marvel character and be able to 
 ## **TECHNOLOGIES USED**
 
 ### **Front End:**
-#### **Bootstrap - **
+#### **Bootstrap: **
 * **Carousel**
-- Shows Main Avengers Character, each image is clickable and will direct the user to the Marvels page for that Character once clicked.  
+    - Shows Main Avengers Character, each image is clickable and will direct the user to the Marvels page for that Character once clicked.  
 Jumbotron 
 Google Scripts
 Modal - 
