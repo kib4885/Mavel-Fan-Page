@@ -29,12 +29,12 @@ The page gives a user the ability to search any Marvel character and be able to 
     * Makes ajax calls to API’s, based off user search 
     * Post the results to page 
 * **API**
-* **Marvel API**
-    * Character Search
-    * API will retrieve Character Bio and featured and support comics
-* **OMDB API**
-    * Title Movie Search
-    * API will retrieve character  movies 
+    * **Marvel API**
+        * Character Search
+        * API will retrieve Character Bio and featured and support comics
+    * **OMDB API**
+        * Title Movie Search
+        * API will retrieve character  movies 
 * **Misc:**
     * Mobile Responsive
 
