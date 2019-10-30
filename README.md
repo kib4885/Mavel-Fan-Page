@@ -16,23 +16,25 @@ The page gives a user the ability to search any Marvel character and be able to 
 ## **TECHNOLOGIES USED**
 
 ### **Front End:**
-**Bootstrap:**
+* **Bootstrap:**
     * Carousel
         - Shows Main Avengers Character, each image is clickable and will direct the user to the Marvels page for that Character once clicked.  
 * **Jumbotron**
 * **Google Scripts**
 * **Modal**
-    - Pop-up box @ search, will direct the user to Fandango, allowing them to purchase movie tickets
+    * Pop-up box @ search, will direct the user to Fandango, allowing them to purchase movie tickets
 
 ### **Back End:**
-JavaScript/jQuery
-- Makes ajax calls to API’s, based off user search 
-- Post the results to page 
-API
-Marvel API -  Character Search
-			- API will retrieve Character Bio and featured and support comics
-OMDB API - Title Movie Search
-    			-API will retrieve character  movies 
-Misc:
-Mobile Responsive
+* **JavaScript/jQuery**
+    * Makes ajax calls to API’s, based off user search 
+    * Post the results to page 
+* **API**
+* **Marvel API**
+    * Character Search
+    * API will retrieve Character Bio and featured and support comics
+* **OMDB API**
+    * Title Movie Search
+    * API will retrieve character  movies 
+* **Misc:**
+    * Mobile Responsive
 
