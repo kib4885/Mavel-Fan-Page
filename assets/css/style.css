@@ -29,15 +29,20 @@ body {
     width: 50%;
   }
 
-h1{
+  .h1, h1 {
+    font-size: 125px;
     font-weight: bolder;
+    margin-bottom: -35px;
+    margin-top: -35px;
 }
 .jumbotron{
     /* padding: 2rem 1rem;
     margin-bottom: 2rem; */
     background-color:#b11414;
     text-align: center;
-    color: white
+    color: white;
+    
+    font-family: 'Bangers', cursive;
    
     /* border-radius: 0.3rem; */
   }
@@ -75,3 +80,10 @@ label{
     float: right;
     margin-top: 250px;
 };
+
+#headtext {
+    font-size: 96px;
+}
+audio {
+    margin-top: 30px;
+}

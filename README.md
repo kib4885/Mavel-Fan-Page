@@ -1,6 +1,6 @@
 # Mavel-Fan-Page
 
-## **LINK TO DEMO*
+## **LINK TO DEMO**S
 https://kib4885.github.io/MavelFanPage/
 
 ## **OVERVIEW**
