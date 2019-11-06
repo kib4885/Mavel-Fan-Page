@@ -20,7 +20,8 @@ The page gives a user the ability to search any Marvel character and be able to 
 ### **Front End:**
 * **Bootstrap:**
     * Carousel
-        - Shows Main Avengers Character, each image is clickable and will direct the user to the Marvels page for that Character once clicked.  
+        - Shows Main Avengers Character, each image is clickable and will direct the user to the Marvels page for that Character once clicked. 
+![](assets/images/RedirectPage.gif)
 * **Jumbotron**
 * **Google Scripts**
 * **Modal**
