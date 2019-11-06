@@ -13,6 +13,7 @@ Through our site, users will be able to acquire and review character information
 
 The page gives a user the ability to search any Marvel character and be able to retrieve the Character Bio, Character title movies, and Character featured and support comics. 
 
+![](MainSitePage.gif)
 
 ## **TECHNOLOGIES USED**
 
