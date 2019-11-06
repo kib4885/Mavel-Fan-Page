@@ -13,7 +13,7 @@ Through our site, users will be able to acquire and review character information
 
 The page gives a user the ability to search any Marvel character and be able to retrieve the Character Bio, Character title movies, and Character featured and support comics. 
 
-![](MainSitePage.gif)
+![](assets/images/MainSitePage.gif)
 
 ## **TECHNOLOGIES USED**
 
@@ -26,7 +26,7 @@ The page gives a user the ability to search any Marvel character and be able to 
 * **Google Scripts**
 * **Modal**
     * Pop-up box @ search, will direct the user to Fandango, allowing them to purchase movie tickets
-
+![](assets/images/Modal.gif)
 ### **Back End:**
 * **JavaScript/jQuery**
     * Makes ajax calls to API’s, based off user search 
@@ -36,6 +36,8 @@ The page gives a user the ability to search any Marvel character and be able to 
         * Character Search:  API will retrieve Character Bio and featured and support comics
     * **OMDB API**
         * Title Movie Search: API will retrieve character  movies 
+
+![](assets/images/Search.gif)
 * **Misc:**
     * Mobile Responsive
 
